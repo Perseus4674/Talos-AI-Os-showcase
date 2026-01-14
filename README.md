@@ -7,7 +7,7 @@ Talos is an advanced, locally-hosted AI operating system designed to replicate t
 ![Terminal Interface](Terminal_HUD.png)
 *Figure 1: The Terminal HUD (Iron Man Mode) running real-time CPU stats and voice loop.*
 
-![Web Dashboard](web_dash.png)
+![Web Dashboard](WEBPAGE_HUD.png)
 *Figure 2: The Holographic Web Interface (v2.4) with neural voice toggle and glassmorphism UI.*
 
 ---
