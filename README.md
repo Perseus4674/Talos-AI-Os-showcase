@@ -4,10 +4,10 @@
 
 Talos is an advanced, locally-hosted AI operating system designed to replicate the capabilities of a virtual assistant like JARVIS. It features a dual-interface design (Terminal HUD & Web Dashboard), cinema-quality neural voice synthesis, and context-aware long-term memory.
 
-![Terminal Interface](terminal_hud.png)
+![Terminal Interface](Terminal_HUD.png)
 *Figure 1: The Terminal HUD (Iron Man Mode) running real-time CPU stats and voice loop.*
 
-![Web Dashboard](web_dashboard.png)
+![Web Dashboard](web_dash.png)
 *Figure 2: The Holographic Web Interface (v2.4) with neural voice toggle and glassmorphism UI.*
 
 ---
